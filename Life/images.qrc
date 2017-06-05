@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/close.png</file>
+        <file>images/delete.png</file>
+        <file>images/fill.png</file>
+        <file>images/info.png</file>
+        <file>images/intersect.png</file>
+        <file>images/load.png</file>
+        <file>images/new.png</file>
+        <file>images/next.png</file>
+        <file>images/repeat.png</file>
+        <file>images/saltuk.jpg</file>
+        <file>images/save.png</file>
+        <file>images/settings.png</file>
+        <file>images/watch.png</file>
+    </qresource>
+</RCC>
